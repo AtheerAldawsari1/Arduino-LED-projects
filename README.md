@@ -10,7 +10,8 @@ The LED blink task involves lighting up a single LED on an Arduino board. To com
 - LED
 - Resistor
 - Bush button 
-- breadboard 
+- breadboard
+- Jumper wires
 ![image](https://github.com/AtheerAldawsari1/Arduino-LED-projects/assets/139083849/95d72442-b505-4c1a-915c-344b6ec8fe44)
 ![image](https://github.com/AtheerAldawsari1/Arduino-LED-projects/assets/139083849/72a68c3c-9c47-4fdc-8a22-79aee64473be)
 
@@ -20,6 +21,7 @@ The LED matrix task involves creating a LED matrix using an Arduino board . To c
 
 - Arduino board
 - 5x5 LED matrix
+- Jumper wires
 ![image](https://github.com/AtheerAldawsari1/Arduino-LED-projects/assets/139083849/58cc8132-62b2-4781-9909-5fb95ffe09b9)
 ![image](https://github.com/AtheerAldawsari1/Arduino-LED-projects/assets/139083849/c32f9b4c-e298-4fcc-b5b9-ce47fb6977df)
 
